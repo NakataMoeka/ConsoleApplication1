@@ -2,6 +2,6 @@
 
 int main()
 {
-    std::cout << "Hello VisualStudioGit!\n";
+    std::cout << "Hello Cat!\n";
 }
 
